@@ -1,0 +1,23 @@
+{
+  "title": "Word RPG",
+  "new_game": "New Game",
+  "continue": "Continue",
+  "character_info": "Character Info",
+  "name": "Name",
+  "race": "Race",
+  "level": "Level",
+  "exp": "Experience",
+  "hp": "Hit Points",
+  "mp": "Magic Points",
+  "strength": "Strength",
+  "dexterity": "Dexterity",
+  "constitution": "Constitution",
+  "intelligence": "Intelligence",
+  "wisdom": "Wisdom",
+  "charisma": "Charisma",
+  "items": "Items",
+  "gold": "Gold",
+  "coordinates": "Coordinates",
+  "map_size": "Map Size",
+  "language": "Language"
+}

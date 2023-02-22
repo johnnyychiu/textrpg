@@ -1,0 +1,23 @@
+{
+  "title": "文字 RPG",
+  "new_game": "新遊戲",
+  "continue": "繼續遊戲",
+  "character_info": "角色資訊",
+  "name": "姓名",
+  "race": "種族",
+  "level": "等級",
+  "exp": "經驗",
+  "hp": "生命值",
+  "mp": "魔法值",
+  "strength": "力量",
+  "dexterity": "敏捷",
+  "constitution": "體質",
+  "intelligence": "智力",
+  "wisdom": "感知",
+  "charisma": "魅力",
+  "items": "物品",
+  "gold": "金幣",
+  "coordinates": "座標",
+  "map_size": "地圖大小",
+  "language": "語言"
+}
